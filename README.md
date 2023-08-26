@@ -1,1 +1,4 @@
-# ICD therapy prediction - MSc Project Code
+### ICD therapy prediction - MSc Project Code
+#### Notebooks:
+resampled_data_models.ipynb - the main notebook with the best performing models. Data is resampled and analysed using logisitc regression, random forest, XGBoost and 1D-CNN.  
+non-resampled_data_models.ipynb - additional analysis notebook. Contains models trained on one sample per patient: XGBoost, 1D-CNN.
